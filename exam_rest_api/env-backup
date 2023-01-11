@@ -1,0 +1,3 @@
+MONGO_URL='mongodb+srv://michellecorderos:dyprPDrB95AYS!!!@cluster0.5puryia.mongodb.net/?retryWrites=true&w=majority'
+PORT=3000
+JWT_SECRET=ffc9f5b485c39bd2b726ae166c7453ba5d01b9859a3ded5eaf8bbeb405cbdfe5a5cf2a1b7033c6f355580f2f875c7416f7f9aad83bfef8454db30366c8bdcb5b
